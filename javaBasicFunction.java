@@ -175,15 +175,15 @@ public class javaBasicFunction {
         // System.out.println(decimalToBinary(decimailNumber));
 
         //--------------------------convert from decimail to binary
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter Binary Number: ");
-        int binaryNumber = sc.nextInt();
-        System.out.println("Decimal Number:" + binaryToDecimal(binaryNumber));
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter Binary Number: ");
+        // int binaryNumber = sc.nextInt();
+        // System.out.println("Decimal Number:" + binaryToDecimal(binaryNumber));
 
 
 
 
-
+        //---------------------------Mehtod and scope
 
 
 
