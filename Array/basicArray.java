@@ -18,5 +18,7 @@ public class basicArray {
             System.out.print(str[i] + ",");
         }
 
+        
+
     }
 }
